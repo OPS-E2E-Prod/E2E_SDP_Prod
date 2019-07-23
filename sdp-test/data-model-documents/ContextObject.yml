@@ -1,0 +1,10 @@
+### YamlMime:ContextObject
+brand: test
+uhfHeaderId: MSDocsHeader-Powershell
+searchScope:
+  - PowerShell
+  - .NET
+breadcrumb_path: ../toc.yml
+toc_rel: ../toc.yml
+chromeless: true
+

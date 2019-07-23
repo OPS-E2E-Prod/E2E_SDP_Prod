@@ -1,0 +1,13 @@
+### YamlMime:SurveyQuestions
+questions:
+- id: rating-module
+  answers:
+  - id: rating-module-content-is-great
+    title: Content is great
+    scores: [4, 5]
+  - id: rating-module-i-like-the-format
+    title: I like the format
+    scores: [4, 5]
+  - id: rating-module-i-like-hands-on-learning
+    title: I like hands on learning
+    scores: [4, 5]

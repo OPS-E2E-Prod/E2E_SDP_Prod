@@ -9,7 +9,15 @@
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content"
+        "Conceptual": "Content",
+        "Tutorial": "Content",
+        "Landing": "Content",
+        "Hub": "Content",
+        "ContextObject": "Toc",
+        "FormModel": "Toc",
+        "SurveyQuestions": "Toc",
+        "EmailOptInPreferences": "Toc",
+        "ZonePivotGroups": "Toc"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"

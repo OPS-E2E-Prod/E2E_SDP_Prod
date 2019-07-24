@@ -1,4 +1,3 @@
-```yml
 ### YamlMime:PowershellModule
 uid: microsoft.powershell.core
 name: Microsoft.PowerShell.Core
@@ -8,4 +7,3 @@ summary: |
   **bold** 
   ~~deleted~~ 
   [link](https://docs.microsoft.com)
-```

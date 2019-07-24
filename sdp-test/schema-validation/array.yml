@@ -18,6 +18,8 @@ groups:
       title: Mac
     - id: windows
       title: Windows
+    - id: windows
+      title: Windows
 - id: azure-interface
   title: Shell
   prompt: Choose your shell

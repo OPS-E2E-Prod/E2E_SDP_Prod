@@ -6,6 +6,7 @@ preferences:
     country: Canada
     countryCode: CA
     email: opt-in
+    none-existing:nonexist
   - id: country-usa
     country: United States
     countryCode: US

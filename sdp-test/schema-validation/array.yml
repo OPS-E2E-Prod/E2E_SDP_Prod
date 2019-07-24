@@ -18,13 +18,3 @@ groups:
       title: Mac
     - id: windows
       title: Windows
-- id: azure-interface
-  title: Shell
-  prompt: Choose your shell
-  pivots:
-  - id: bash
-    title: Bash
-  - id: powershell
-    title: PowerShell
-  - id: portal
-    title: Azure Portal

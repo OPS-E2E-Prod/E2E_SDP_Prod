@@ -1,9 +1,12 @@
-### YamlMime:PowershellModule
-uid: microsoft.powershell.core
-name: Microsoft.PowerShell.Core
-summary: |
-  # Title
-  *italic* 
-  **bold** 
-  ~~deleted~~ 
-  [link](https://docs.microsoft.com)
+### YamlMime:Tutorial
+title: Administer flows
+metadata:
+  title: Test for metadata
+items:
+- durationInMinutes: 1
+  content: |
+    # Title
+    *italic* 
+    **bold** 
+    ~~deleted~~ 
+    [link](https://docs.microsoft.com)

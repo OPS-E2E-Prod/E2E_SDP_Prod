@@ -4,7 +4,7 @@ preferences:
   countries:
   - id: country-canada
     country: Canada
-    countryCode: CA
+    countryCode: 1
     email: opt-in
   - id: country-usa
     country: United States

@@ -1,12 +1,11 @@
- ### PowershellModule
- ```yml
-    ### YamlMime:PowershellModule
-    uid: microsoft.powershell.core
-    name: Microsoft.PowerShell.Core
-    summary:  |
-      # Title
-      *italic* 
-      **bold** 
-      ~~deleted~~ 
-      [link](https://docs.microsoft.com)
-  ```
+```yml
+### YamlMime:PowershellModule
+uid: microsoft.powershell.core
+name: Microsoft.PowerShell.Core
+summary:  |
+  # Title
+  *italic* 
+  **bold** 
+  ~~deleted~~ 
+  [link](https://docs.microsoft.com)
+```

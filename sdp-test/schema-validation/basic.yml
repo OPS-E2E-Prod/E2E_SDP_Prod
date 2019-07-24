@@ -5,7 +5,7 @@ preferences:
   - id: country-canada
     country: Canada
     countryCode: CA
-    email: opt-in
+    email: none-existing-enum
   - id: country-usa
     country: United States
     countryCode: US

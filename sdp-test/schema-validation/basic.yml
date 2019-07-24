@@ -1,0 +1,28 @@
+### YamlMime:EmailOptInPreferences
+preferences:
+- id: preference-module
+  countries:
+  - id: country-canada
+    country: Canada
+    countryCode: CA
+    email: opt-in
+  - id: country-usa
+    country: United States
+    countryCode: US
+    email: notice
+  - id: country-argentina
+    country: Argentina
+    countryCode: AR
+    email: opt-in
+  - id: country-bolivia
+    country: Bolivia
+    countryCode: BO
+    email: notice
+  - id: country-brazil
+    country: Brazil
+    countryCode: BR
+    email: notice
+  - id: country-mexico
+    country: Mexico
+    countryCode: MX
+    email: opt-out

@@ -39,11 +39,12 @@
     "globalMetadata": {
       "breadcrumb_path": "/sdp-test/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "_keepDebugInfo": true
     },
     "fileMetadata": {},
     "template": [],
     "dest": "sdp-test",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "dfm-latest"
   }
 }

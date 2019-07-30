@@ -138,7 +138,7 @@ tools:
 
 additionalContent:
   sections:
-    - title: Microsoft 365
+    - title: Additional Content
       summary: Explore Microsoft 365, a complete solution that includes Azure AD.
       items:
         - summary: summary 1

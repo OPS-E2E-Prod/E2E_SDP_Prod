@@ -19,9 +19,8 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: >+
+  content: >
     Set new content for the first item in items
-
 - title: step 2
   durationInMinutes: 8
   content: >

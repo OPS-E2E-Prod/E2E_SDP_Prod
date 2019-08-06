@@ -19,9 +19,10 @@ challenge:
 items:
 - title: step 1
   durationInMinutes: 1
-  content: |
-    content ~~for~~ *step* **1**
+  content: >
+    ADD NEW CONTENT!!!
 - title: step 2
   durationInMinutes: 8
-  content: |
+  content: >
     content for step 2
+

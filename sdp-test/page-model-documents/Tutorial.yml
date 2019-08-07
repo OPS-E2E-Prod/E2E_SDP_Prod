@@ -20,7 +20,7 @@ items:
 - title: step 1
   durationInMinutes: 1
   content: >
-    Change ADD SOMECONTENT!!!
+    Change CONTENT!!!
 - title: step 2
   durationInMinutes: 8
   content: >

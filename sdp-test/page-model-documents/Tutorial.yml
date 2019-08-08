@@ -21,8 +21,8 @@ items:
   durationInMinutes: 1
   content: >
     Change CONTENT!!! Try to find multiple lines situation:
-    This is the 2nd line.   
-    =====================
+    ## Launch Azure Cloud Shell
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
     This is the 3rd line.   
 
 - title: step 2

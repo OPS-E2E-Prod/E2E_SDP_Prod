@@ -21,8 +21,9 @@ items:
   durationInMinutes: 1
   content: >
     Change CONTENT!!! Try to find multiple lines situation:
-    This is the 2nd line. \n
-    This is the 3rd line.\n
+    This is the 2nd line.   
+    This is the 3rd line.   
+    
 - title: step 2
   durationInMinutes: 8
   content: >

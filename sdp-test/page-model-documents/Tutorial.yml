@@ -22,7 +22,9 @@ items:
   content: |
     Change CONTENT!!! Try to find multiple lines situation:
     ## Launch Azure Cloud Shell
-    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.  
+    The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article.
+    
+    
     This is the 3rd line.   
 
 - title: step 2

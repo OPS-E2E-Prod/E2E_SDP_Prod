@@ -1,12 +1,12 @@
 # Welcome to sdp-test! Welcome!
 
-This is on branch InlineEdit. For testing Inline edit in docs.microsoft
-website. **token content**
+This is for testing MARKDOWN file on branch InlineEdit. For testing
+Inline edit in docs.microsoft website. **token content**
 
 *test Italic*
 
 ### 1. Deploying the network
-**some thing with format**
+**Test BOLD format**
 
 ### Test list
 1.  Foo

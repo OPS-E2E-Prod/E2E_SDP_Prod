@@ -13,7 +13,7 @@ Inline edit in docs.microsoft website.
 2.  Bar
 
 ### Test unordered list
-*   A list item.
-*   Bar
+-   Foo of ul.
+-   Bar of ul.
 
 

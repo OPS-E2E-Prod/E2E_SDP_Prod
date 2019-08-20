@@ -1,6 +1,20 @@
 {
   "docsets_to_publish": [
     {
+      "docset_name": "E2E_SDP_Prod",
+      "build_source_folder": "sdp-test",
+      "build_output_subfolder": "E2E_SDP_Prod",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "sdp-test",
       "build_source_folder": "sdp-test",
       "build_output_subfolder": "sdp-test",

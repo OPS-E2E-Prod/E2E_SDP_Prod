@@ -9,21 +9,15 @@
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "sdp-test",
-      "build_source_folder": "sdp-test",
-      "build_output_subfolder": "sdp-test",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
+        "Conceptual": "Content",
+        "Tutorial": "Content",
+        "Landing": "Content",
+        "Hub": "Content",
+        "ContextObject": "Toc",
+        "FormModel": "Toc",
+        "SurveyQuestions": "Toc",
+        "EmailOptInPreferences": "Toc",
+        "ZonePivotGroups": "Toc"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
@@ -44,5 +38,8 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }

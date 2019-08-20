@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "sdp-test",
+      "docset_name": "E2E_SDP_Prod",
       "build_source_folder": "sdp-test",
-      "build_output_subfolder": "sdp-test",
+      "build_output_subfolder": "E2E_SDP_Prod",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],

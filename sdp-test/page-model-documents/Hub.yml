@@ -43,14 +43,14 @@ productDirectory:
     - imageSrc: ../imgs/img1.png
       title: item-1
       summary: item-1 summary
-      url: https://docs.microsoft.com
+      url: https://github.com
       links:
         - text: text for item-1 link-1
           url: ./for-link.md
     - imageSrc: ../imgs/img2.png
       title: item-2
       summary: item-2 summary
-      url: https://docs.microsoft.com
+      url: https://github.com
       links:
         - text: text for item-2 link-1
           url: ./for-link.md

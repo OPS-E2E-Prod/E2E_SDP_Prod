@@ -2,7 +2,7 @@
 preferences:
 - id: preference-module
   countries:
-  - id: country-canada
+  - id: country/canada
     country: Canada
     countryCode: CA
     email: opt-in
